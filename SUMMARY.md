@@ -1,3 +1,3 @@
 # Table of contents
 
-* [ECS](README.md)
+* [ECS](ECS)
